@@ -1,1 +1,0 @@
-# Student-Enrollment-Course-Management-System-SECMS-
